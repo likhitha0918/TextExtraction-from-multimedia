@@ -1,0 +1,6 @@
+pytesseract==YOUR_VERSION
+speechrecognition==YOUR_VERSION
+qrcode[pil]==YOUR_VERSION
+pyttsx3==YOUR_VERSION
+moviepy==YOUR_VERSION
+Pillow==YOUR_VERSION
